@@ -23,7 +23,7 @@
 ```python
 class JidelAbdelkader:
     def __init__(self):
-        self.username = "djidelabdocs50-pixel"
+        self.username = "jidelabdo"
         self.role = "Freshman CS Student"
         self.location = "Algeria 🇩🇿"
         self.focus = ["Web Development", "Cybersecurity", "Problem Solving"]
