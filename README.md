@@ -78,11 +78,11 @@ me.say_hi()
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=djidelabdocs50-pixel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jidelabdo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djidelabdocs50-pixel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jidelabdo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=djidelabdocs50-pixel&theme=radical&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakLabel=00FF88)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jidelabdo&theme=radical&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakLabel=00FF88)
 
 </div>
 
@@ -94,9 +94,9 @@ me.say_hi()
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| 🛡️ **CyberSec Toolkit** | Password generator & encryption suite with 6 cipher implementations | JavaScript, Cryptography | [View](https://djidelabdocs50-pixel.github.io/cs-tool-kit/) |
-| 🔒 **Password Analyzer** | Advanced password strength checker with entropy calculation | JavaScript, Algorithms | [View](https://djidelabdocs50-pixel.github.io/pstrength/) |
-| 💼 **Portfolio** | Modern portfolio with animations & responsive design | HTML, CSS, JavaScript | [View](https://djidelabdocs50-pixel.github.io/portfolio/) |
+| 🛡️ **CyberSec Toolkit** | Password generator & encryption suite with 6 cipher implementations | JavaScript, Cryptography | [View](https://jidelabdo.github.io/cs-tool-kit/) |
+| 🔒 **Password Analyzer** | Advanced password strength checker with entropy calculation | JavaScript, Algorithms | [View](https://jidelabdo.github.io/pstrength/) |
+| 💼 **Portfolio** | Modern portfolio with animations & responsive design | HTML, CSS, JavaScript | [View](https://jidelabdo.github.io/portfolio/) |
 
 </div>
 
@@ -153,7 +153,7 @@ Linux Fundamentals    ███████████████░░░░�
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/djidelabdocs50-pixel)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jidelabdo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelkader-jidel)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dj_ab_do)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:djidelabdocs50@gmail.com)
@@ -177,7 +177,7 @@ Linux Fundamentals    ███████████████░░░░�
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=djidelabdocs50-pixel&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jidelabdo&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF)
 
 </div>
 
@@ -187,7 +187,7 @@ Linux Fundamentals    ███████████████░░░░�
 
 ### 💚 Thanks for visiting! Let's build something amazing together! 🚀
 
-![Visitor Count](https://profile-counter.glitch.me/djidelabdocs50-pixel/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/jidelabdo/count.svg)
 
 ---
 
